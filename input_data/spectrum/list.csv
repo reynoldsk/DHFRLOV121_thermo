@@ -1,0 +1,51 @@
+Temp,Light,Read 1,Read 2,Read 3
+5,Dark,DL121 5C Dark 2-1.csv,DL121 5C Dark 2-2.csv,DL121 5C Dark 2-3.csv
+5,Lit,DL121 5C Lit-1.csv,DL121 5C Lit-2.csv,DL121 5C Lit-3.csv
+10,Dark,DL121 10C Dark-1.csv,DL121 10C Dark-2.csv,DL121 10C Dark-3.csv
+10,Lit,DL121 10C Lit-1.csv,DL121 10C Lit-2.csv,DL121 10C Lit-3.csv
+15,Dark,DL121 15C Dark-1.csv,DL121 15C Dark-2.csv,DL121 15C Dark-3.csv
+15,Lit,DL121 15C Lit-1.csv,DL121 15C Lit-2.csv,DL121 15C Lit-3.csv
+20,Dark,DL121 20C Dark-1.csv,DL121 20C Dark-2.csv,DL121 20C Dark-3.csv
+20,Lit,DL121 20C Lit-1.csv,DL121 20C Lit-2.csv,DL121 20C Lit-3.csv
+25,Dark,DL121 25C Dark-1.csv,DL121 25C Dark-2.csv,DL121 25C Dark-3.csv
+25,Lit,DL121 25C Lit-1.csv,DL121 25C Lit-2.csv,DL121 25C Lit-3.csv
+27.5,Dark,DL121 27.5C Dark-1.csv,DL121 27.5C Dark-2.csv,DL121 27.5C Dark-3.csv
+27.5,Lit,DL121 27.5C Lit-1.csv,DL121 27.5C Lit-2.csv,DL121 27.5C Lit-3.csv
+30,Dark,DL121 30C Dark-1.csv,DL121 30C Dark-2.csv,DL121 30C Dark-3.csv
+30,Lit,DL121 30C Lit-1.csv,DL121 30C Lit-2.csv,DL121 30C Lit-3.csv
+32.5,Dark,DL121 32.5C Dark-1.csv,DL121 32.5C Dark-2.csv,DL121 32.5C Dark-3.csv
+32.5,Lit,DL121 32.5C Lit-1.csv,DL121 32.5C Lit-2.csv,DL121 32.5C Lit-3.csv
+35,Dark,DL121 35C Dark-1.csv,DL121 35C Dark-2.csv,DL121 35C Dark-3.csv
+35,Lit,DL121 35C Lit-1.csv,DL121 35C Lit-2.csv,DL121 35C Lit-3.csv
+37.5,Dark,DL121 37.5C Dark-1.csv,DL121 37.5C Dark-2.csv,DL121 37.5C Dark-3.csv
+37.5,Lit,DL121 37.5C Lit-1.csv,DL121 37.5C Lit-2.csv,DL121 37.5C Lit-3.csv
+40,Dark,DL121 40C Dark-1.csv,DL121 40C Dark-2.csv,DL121 40C Dark-3.csv
+40,Lit,DL121 40C Lit-1.csv,DL121 40C Lit-2.csv,DL121 40C Lit-3.csv
+42.5,Dark,DL121 42.5C Dark-1.csv,DL121 42.5C Dark-2.csv,DL121 42.5C Dark-3.csv
+42.5,Lit,DL121 42.5C Lit-1.csv,DL121 42.5C Lit-2.csv,DL121 42.5C Lit-3.csv
+45,Dark,DL121 45C Dark-1.csv,DL121 45C Dark-2.csv,DL121 45C Dark-3.csv
+45,Lit,DL121 45C Lit-1.csv,DL121 45C Lit-2.csv,DL121 45C Lit-3.csv
+50,Dark,DL121 50C Dark-1.csv,DL121 50C Dark-2.csv,DL121 50C Dark-3.csv
+50,Lit,DL121 50C Lit-1.csv,DL121 50C Lit-2.csv,DL121 50C Lit-3.csv
+55,Dark,DL121 55C Dark-1.csv,DL121 55C Dark-2.csv,DL121 55C Dark-3.csv
+55,Lit,DL121 55C Lit-1.csv,DL121 55C Lit-2.csv,DL121 55C Lit-3.csv
+60,Dark,DL121 60C Dark-1.csv,DL121 60C Dark-2.csv,DL121 60C Dark-3.csv
+60,Lit,DL121 60C Lit-1.csv,DL121 60C Lit-2.csv,DL121 60C Lit-3.csv
+65,Dark,DL121 65C Dark-1.csv,DL121 65C Dark-2.csv,DL121 65C Dark-3.csv
+65,Lit,DL121 65C Lit-1.csv,DL121 65C Lit-2.csv,DL121 65C Lit-3.csv
+70,Dark,DL121 70C Dark-1.csv,DL121 70C Dark-2.csv,DL121 70C Dark-3.csv
+70,Lit,DL121 70C Lit-1.csv,DL121 70C Lit-2.csv,DL121 70C Lit-3.csv
+75,Dark,DL121 75C Dark-1.csv,DL121 75C Dark-2.csv,DL121 75C Dark-3.csv
+75,Lit,DL121 75C Lit-1.csv,DL121 75C Lit-2.csv,DL121 75C Lit-3.csv
+80,Dark,DL121 80C Dark-1.csv,DL121 80C Dark-2.csv,DL121 80C Dark-3.csv
+80,Lit,DL121 80C Lit-1.csv,DL121 80C Lit-2.csv,DL121 80C Lit-3.csv
+85,Dark,DL121 85C Dark-1.csv,DL121 85C Dark-2.csv,DL121 85C Dark-3.csv
+85,Lit,DL121 85C Lit-1.csv,DL121 85C Lit-2.csv,DL121 85C Lit-3.csv
+90,Dark,DL121 90C Dark-1.csv,DL121 90C Dark-2.csv,DL121 90C Dark-3.csv
+90,Lit,DL121 90C Lit-1.csv,DL121 90C Lit-2.csv,DL121 90C Lit-3.csv
+115,Dark,DL121 15C Dark - Reverse-1.csv,DL121 15C Dark - Reverse-2.csv,DL121 15C Dark - Reverse-3.csv
+115,Lit,DL121 15C Lit - Reverse-1.csv,DL121 15C Lit - Reverse-2.csv,DL121 15C Lit - Reverse-3.csv
+116,Dark,DL121 15C Dark melt 2-1.csv,DL121 15C Dark melt 2-2.csv,DL121 15C Dark melt 2-3.csv
+116,Lit,DL121 15C Lit melt 2-1.csv,DL121 15C Lit melt 2-2.csv,DL121 15C Lit melt 2-3.csv
+117,Dark,DL121 15C dark melt post scan 2-1.csv,DL121 15C dark melt post scan 2-2.csv,DL121 15C dark melt post scan 2-3.csv
+117,Lit,DL121 15C Lit melt post scan 2-1.csv,DL121 15C Lit melt post scan 2-2.csv,DL121 15C Lit melt post scan 2-3.csv
