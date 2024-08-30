@@ -1,0 +1,135 @@
+TITLE,DL121 lit melt,
+DATA TYPE,,
+ORIGIN,JASCO,
+OWNER,,
+DATE,22/08/08,
+TIME,15:49:16,
+SPECTROMETER/DATA SYSTEM,,
+LOCALE,1033,
+XUNITS,Temperature[C],
+YUNITS,CD [mdeg],
+Y2UNITS,HT [V],
+FIRSTX,10.03,
+LASTX,80.07,
+NPOINTS,71,
+XYDATA,,
+10.03,-55.8527,403.991
+10.99,-36.7535,336.54
+11.99,-17.1945,289.212
+12.99,-42.2106,350.035
+14,-22.449,302.684
+14.99,-49.1962,365.036
+16.01,-27.8751,317.412
+17,-52.9699,404.317
+18.01,-52.9252,404.089
+19,-52.7076,404.547
+20.01,-53.5577,404.298
+21,-40.7172,391.972
+22,-52.7242,404.405
+23,-52.2685,404.307
+24,-50.7145,404.337
+25,-6.89163,262.315
+26.01,-49.5803,404.327
+27.02,-19.8165,338.787
+28,-48.7721,404.429
+29.01,-13.1754,273.398
+30.01,-46.3385,404.93
+30.99,-46.5264,404.699
+32.14,-21.9446,350.172
+33,-30.5062,331.714
+34,-41.7829,406.735
+35,-41.3666,408.28
+36.01,-22.1856,305.167
+37.02,-41.5252,409.171
+38.01,-13.5951,329.919
+38.99,-40.7231,410.922
+39.99,-7.64479,255.285
+41,-39.1382,411.96
+42.01,-39.4015,413.41
+43.13,-38.4515,413.685
+43.99,-36.8643,414.877
+45.01,-37.8551,415.346
+45.99,-39.0579,416.609
+46.99,-17.1108,349.119
+48,-38.2195,418.258
+49,-30.4052,394.633
+49.99,-35.4925,362.844
+51,-6.95677,299.257
+51.99,-42.0381,421.066
+52.98,-40.6162,422.198
+54,-15.8809,332.993
+54.99,-42.7233,422.755
+55.99,-42.1353,423.437
+56.99,-14.9002,262.604
+58.1,-44.6566,423.654
+59.03,-43.3742,424.149
+60,-3.44774,232.824
+61.01,-43.3381,424.297
+62,-44.8418,424.621
+63.01,-31.3423,325.527
+63.99,-43.9379,424.699
+64.99,-39.7878,425.367
+65.98,-30.5301,389.073
+67.01,-37.1876,349.811
+68.03,-43.8676,426.092
+68.99,-24.4913,367.489
+69.98,-44.3122,426.967
+71.01,-44.5085,427.458
+72.12,-44.5085,294.479
+72.94,-44.5085,381.202
+73.96,-20.462,350.372
+74.99,-44.6129,428.248
+76.03,-45.0096,429.073
+76.99,-42.6907,429.731
+77.99,-25.8539,292.081
+79,-45.6318,430.441
+80.07,-38.3837,420.752
+,,
+##### Extended Information,,
+[Comments],,
+Sample name,DL121 lit melt,
+Comment,,
+User,,
+Division,,
+Company,UT Southwestern Medical Center at Dallas,
+,,
+[Detailed Information],,
+Creation date,8/8/2022 15:49,
+,,
+Data array type,Non-linear data array * 2,
+Horizontal axis,Temperature [C],
+Vertical axis(1),CD [mdeg],
+Vertical axis(2),HT [V],
+Start,10.03 C,
+End,80.07 C,
+Data points,71,
+,,
+[Measurement Information],,
+Instrument name,Jasco CD,
+Model name,J-815,
+Serial No.,B064061168,
+,,
+Accessory,CDF-426S,
+Accessory S/N,A00861183,
+  Control sonsor,Holder,
+  Monitor sensor,Holder,
+  Start Mode,Keep target temperature +/-0.10 deg C while 5 seconds,
+  Cell length,1 mm,
+,,
+Measurement date,8/8/2022 15:49,
+,,
+Photometric mode,CD, HT
+Sensitivity,Standard,
+D.I.T.,1 sec,
+Bandwidth,1.00 nm,
+Monitor wavelength,222 nm,
+Baseline correction,None,
+Shutter control,Manual,
+CD detector,PMT,
+PMT voltage,Auto,
+,,
+Concentration,30 umol/L,
+,,
+Due to bug in code these two values were manually adjusted to equal above. Should be edited out anyway. ,,
+Due to bug in code these two values were manually adjusted to equal above. Should be edited out anyway. ,,
+Cells 78 and 79,,
