@@ -1,0 +1,25 @@
+Mutant,Light,Read 1,Read 2,Read 3,Concentration,skiprows,nrows
+DL121,Dark,DL121-1.csv,,,0.909,20,701
+DL121,Lit,DL121-2.csv,DL121-3.csv,DL121-4.csv,0.909,20,701
+A9N,Dark,Dl121-A9N dark-1.csv,Dl121-A9N dark-2.csv,Dl121-A9N dark-3.csv,0.95,20,701
+A9N,Lit,Dl121-A9N lit-1.csv,Dl121-A9N lit-2.csv,Dl121-A9N lit-3.csv,0.95,20,701
+D87A,Dark,Dl121-D87A-1-dark.csv,,,0.929,20,701
+D87A,Lit,Dl121-D87A-2 lit.csv,,,0.929,20,701
+R98M,Dark,DL121_R98M-1.csv,DL121_R98M-2.csv,DL121_R98M-3.csv,0.885,20,601
+R98M,Lit,DL121_R98M_lit-1.csv,DL121_R98M_lit-2.csv,DL121_R98M_lit-3.csv,0.885,20,601
+D116M,Dark,Dl121-D116M dark-1.csv,Dl121-D116M dark-2.csv,Dl121-D116M dark-3.csv,0.94,20,701
+D116M,Lit,Dl121-D116M lit 2-1.csv,Dl121-D116M lit 2-2.csv,Dl121-D116M lit 2-3.csv,0.94,20,701
+H124Q,Dark,DL121_H124Q_dark-1.csv,DL121_H124Q_dark-2.csv,DL121_H124Q_dark-3.csv,0.452,20,601
+H124Q,Lit,DL121_H124Q_lit-1.csv,DL121_H124Q_lit-2.csv,DL121_H124Q_lit-3.csv,0.452,20,601
+D127W,Dark,DL121_D127W_dark-1.csv,DL121_D127W_dark-2.csv,DL121_D127W_dark-3.csv,0.633,20,601
+D127W,Lit,DL121_D127W_lit-1.csv,DL121_D127W_lit-2.csv,DL121_D127W_lit-3.csv,0.633,20,601
+C450S,Dark,DL121-C450S-1.csv,,,1,20,701
+C450S,Lit,DL121-C450S-LED-2.csv,,,1,20,701
+DL116,Dark,DL116_Dark_1.csv,DL116_Dark_2.csv,DL116_Dark_3.csv,0.7718,20,601
+DL116,Lit,DL116_Lit_1.csv,DL116_Lit_2.csv,DL116_Lit_3.csv,0.7718,20,601
+M16A,Dark,,,,,,
+M16A,Lit,,,,,,
+M16P,Dark,,,,,,
+M16P,Lit,,,,,,
+G86K,Dark,,,,,,
+G86K,Lit,,,,,,
